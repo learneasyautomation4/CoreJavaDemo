@@ -3,8 +3,6 @@ package day13_Arrays;
 public class c2_Arrays {
 
     public static void main(String[] args) {
-
-        //
         //declaration of array
         //DataType [] nameofyourcontainer = {data1,data2,data3, .... }
 

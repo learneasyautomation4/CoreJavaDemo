@@ -23,12 +23,14 @@ public class c3_escapeSequences {
         System.out.println("Hello \n\tWorld \tJava");
 
 
-        // \\ -- this will print single slash on the consule
+        // \\ -- this will print single slash on the console
         System.out.println("\\");
         System.out.println("/");
 
         // ""    \": prints double quote " on the console
         System.out.println("Today is \"Tuesday \" . ");
+
+        System.out.println("This is a \"great\" day");
 
         //	 \': prints single quote
         System.out.println("Today is \'Tuesday \' .");

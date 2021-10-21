@@ -34,7 +34,7 @@ public class c5_unaryOperators {
         System.out.println(b1);
         System.out.println(b2);
 
-        //if you have + before variable it wont effect number
+        //if you have + before variable it won't affect number
         // if you have - before variable it will make your number opposite
 
         int i1= -15;

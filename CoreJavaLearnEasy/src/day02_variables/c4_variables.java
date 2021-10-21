@@ -38,7 +38,7 @@ package day02_variables;
 //
 //
 //
-//        Non primitive types: String, Object
+//        Non-primitive types: String, Object
 //        There are also reference types that wrap the primitive types.
 //        These can be useful if you need a make a variable null or use it in a class that requires a non-primitive type
 //
@@ -56,8 +56,8 @@ public class c4_variables {
         byte number1=25;
         System.out.println(number1);
 
-        //byte number2=128; this will give you error  because its out of range
-        //byte b1=2.5; this will also give you error beacuse its decimel number
+        //byte number2=128; this will give you error  because it's out of range
+        //byte b1=2.5; this will also give you error because its decimal number
 
         byte number2=-100;
         System.out.println(number2);
@@ -92,10 +92,12 @@ public class c4_variables {
         //        long	            8 bytes	        Stores whole numbers from -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
         long l1=200;
         long l2=123123123133L;//when you move out int range compiler needs to know what is this number
-        //that is why we pass L at the end to tell java this is Long numebr
-
+        //that is why we pass L at the end to tell java this is Long number
+        long l3=12312312343432432l;
         System.out.println(l1);
         System.out.println(l2);
 
+        float f1=523.7859565f;
+        double f2=3443534.48555989158966214d;
     }
 }

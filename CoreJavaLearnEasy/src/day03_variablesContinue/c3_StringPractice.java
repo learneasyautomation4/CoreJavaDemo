@@ -3,7 +3,7 @@ package day03_variablesContinue;
 public class c3_StringPractice {
 //  create 3 name and assign any name
 //  create 3 age assign any number you want to   20 30 40
-//  print those age with person name   mesut age is 20
+//  print those age with person name whose age is 20
 //  also sum those three person age  20 + 30 + 40
 // print  "Sum of persons Age = 90 ;
 

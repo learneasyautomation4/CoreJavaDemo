@@ -2,7 +2,7 @@ package day03_variablesContinue;
 
 public class c2_String {
 
-    // string is non primitive data type
+    // string is non-primitive data type
 
     public static void main(String [] args){
 

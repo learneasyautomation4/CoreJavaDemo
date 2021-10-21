@@ -5,7 +5,7 @@ public class c2_comments { // opening bracket for class
 
     //comments doesn't have any functionality
     //there is 2 type of comment first single line second multi line comment
-    //it wont effect your actual code
+    //it won't affect your actual code
 
     //single line comment  is use double slash to create a single line comment
     //hello Learn Easy Automation
@@ -19,7 +19,7 @@ public class c2_comments { // opening bracket for class
     //to create a main method you will need to create as below
     public static void main( String [] args) { // opening bracket for main method
 
-        //we are telling java sytem to print the line
+        //we are telling java system to print the line
         System.out.println("This is comment class");
         System.out.println("Hello , this is Learn Easy Automation");
 
@@ -36,26 +36,21 @@ public class c2_comments { // opening bracket for class
 
 /*
 Multi line comment
-
 hello
 hello
-
-asdsa
-
-
  */
 
 /*
 between those multi
 line comments
-anyuthing you write
+anything you write
 will be commented
-and it wont effect your code.
+and it won't affect your code.
  */
 
 
 //task for you to work
 //first create a class under day01
 //name this class as names
-//print your name in the consule
+//print your name in the console
 // create a single line comment and write "Hello this is me"

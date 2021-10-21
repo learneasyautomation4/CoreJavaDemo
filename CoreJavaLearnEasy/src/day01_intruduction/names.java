@@ -2,7 +2,7 @@ package day01_intruduction;
 //task for you to work
 //first create a class under day01
 //name this class as names
-//print your name in the consule
+//print your name in the console
 // create a single line comment and write "Hello this is me"
 public class names { // opening bracket for class
 

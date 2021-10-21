@@ -19,7 +19,11 @@ public class c6_booleanChar {
 
         //char ch1='ass'; char will only store either single letter or number from ascii table
         char ch2='a';
+
+        char ch3=68; //
         System.out.println(ch2);
+
+        System.out.println("Char value Ch3 :" + ch3);
 
     }
 }

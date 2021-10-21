@@ -59,5 +59,21 @@ public class c2_StringClass {
 
         String s2="Tamil Nadu";
 
+        char ch='N';
+        char ch1=75;
+
+        //one way of declaring string
+        String str="Nila";
+        String name="Nila";
+
+        //another way of declaring string using new keyword
+        String obj=new String("Nila");
+
+        StringBuffer strBuffer=new StringBuffer("Ashwin");
+        StringBuilder strBuilder=new StringBuilder("Kavitha");
+
+
+
+
     }
 }

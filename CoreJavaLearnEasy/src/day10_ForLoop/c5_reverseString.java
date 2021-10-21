@@ -15,6 +15,8 @@ public class c5_reverseString {
         String reverseWord =""+ word.charAt(4)+word.charAt(3)+word.charAt(2)+word.charAt(1)+word.charAt(0);
         System.out.println(reverseWord);
 
+
+
         Scanner input=new Scanner(System.in);
 
         System.out.println("Enter your word ");
@@ -37,5 +39,17 @@ public class c5_reverseString {
         }
         System.out.println(reverseWord2);
 
+
+
+        String name="Nila";
+
+        int size=name.length();
+        String reversedName="";
+        //reverse string
+        for(int i=size-1;i>=0;i--){
+            reversedName=reversedName +name.charAt(i);
+        }
+
+        System.out.println("Reveresed Name is:" + reversedName);
     }
 }

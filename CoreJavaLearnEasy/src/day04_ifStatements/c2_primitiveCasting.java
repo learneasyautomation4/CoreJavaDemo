@@ -27,6 +27,34 @@ public class c2_primitiveCasting {
 
         short s=155;
 
+       // long > int > short > byte
+        //8 > 4 > 2 >1
+
+        short sh=23432;
+        int i6=234324324;
+
+        int i= sh; //implicit type casting
+        int num1=48596;
+        short sh1=(short)num1; //explicity types
+
+        long l11=2343432;
+//        long l12=l11;
+
+        byte b11=10;
+//        byte b12=b11;
+
+        byte b12=(byte)l11;
+
+        long l12=b11;
+
+        //float >>Double
+        // 2 bytes >> 8 bytes
+
+        float f_1=23.36f;
+        double d_1=f_1;
+
+        double d_2=8596.485965;
+        float f_2=(float)d_2;
 
     }
 

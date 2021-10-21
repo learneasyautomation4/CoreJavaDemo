@@ -35,5 +35,9 @@ public class c2_ForLoop {
         }//4 7 10 13
 
 
+        for(int num=1; num<10; num++){
+            System.out.println(num);
+        }
+
     }
 }

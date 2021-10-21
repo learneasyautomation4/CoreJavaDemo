@@ -25,7 +25,7 @@ public class c2_ScannerPractice {
         }
 
         //exception in thread "main" java.util.InputMismatchException
-        //in the consule if you pass something not expected you will have an exceptions
+        //in the console if you pass something not expected you will have an exceptions
         //if we pass out of range we will have java.util.InputMismatchException
 
         //max and min numbers

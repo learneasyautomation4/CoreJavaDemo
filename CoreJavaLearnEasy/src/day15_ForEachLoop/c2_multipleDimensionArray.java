@@ -28,6 +28,8 @@ public class c2_multipleDimensionArray {
 
         System.out.println(arr[3]);
 
+        System.out.println(arr2[1][2]);
+
         //arr2 [2][1]
         //first bracket [] is alwasys container number
         //second one index number of your variable

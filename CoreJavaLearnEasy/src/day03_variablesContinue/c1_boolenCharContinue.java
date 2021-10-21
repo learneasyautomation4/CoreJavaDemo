@@ -48,7 +48,7 @@ public class c1_boolenCharContinue {
 
         //ascii table
         // from ascii table number 97 is  small a
-        // fram ascii number 65 is A
+        // from ascii number 65 is A
 
         int i=97; //this stores numbers
         char ch=97; // store characters
