@@ -19,7 +19,7 @@ public class c2_ArraySorting {
 
         //max number from list
         //will be last index since we sorted
-        //whihc is lenght -1
+        //which is length -1
         System.out.println("Max Number is "+ numberList[numberList.length-1]);
 
         //medium number

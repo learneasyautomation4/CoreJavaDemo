@@ -1,7 +1,7 @@
-package programs;
+package programs.arrays;
 //Program to copy all elements of one array into another array
 
-public class CopyArray {
+public class p2_CopyArray {
     public static void main(String[] args) {
         int [] arr1=new int[]{0,1,2,3,4};
         int [] arr2=new int[arr1.length];

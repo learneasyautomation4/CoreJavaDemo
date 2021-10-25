@@ -17,6 +17,9 @@ public class ArrayListExample {
         list.add(52);
         list.add(85);
         list.add(63);
+        List<Boolean> boolList=new ArrayList<>();
+
+        List<Byte> byteList=new ArrayList<>();
 
         System.out.println(list);
 

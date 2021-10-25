@@ -28,15 +28,15 @@ public class c5_StringMethods {
         String mySentence="Java is fun";
 
         //task is to split sentence from spaces
-       // String [] splitedSenteces=mySentence.split(" "); // to split from spaces
-       // String [] splitedSenteces=mySentence.split("a"); //to split from a letter
-        String [] splitedSenteces=mySentence.split("");  //to split from each letter
-        System.out.println(Arrays.toString(splitedSenteces));
+       // String [] splitedSentences=mySentence.split(" "); // to split from spaces
+       // String [] splitedSentences=mySentence.split("a"); //to split from a letter
+        String [] splitedSentences=mySentence.split("");  //to split from each letter
+        System.out.println(Arrays.toString(splitedSentences));
 
 
         //tochararray vs split
         //split is more specific to split anywhere you want to
-        //split retruns string array tochararray returns char array
+        //split returns string array tochararray returns char array
 
     }
 }

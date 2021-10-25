@@ -4,10 +4,10 @@ import java.util.Scanner;
 
 public class c1_arrayPractice {
     //test data
-            //positve   1 -7 validate name presnet
+            //positive   1 -7 validate name present
            // negative  negatif number 0 or bigger 7
     //att1=false number and true
-    //att1=false numebr false number true number
+    //att1=false number false number true number
     //att1=false false false
 
     public static void main(String[] args) {
