@@ -15,6 +15,5 @@ public class p3_LargestElement {
                 max=arr[i];
         }
         System.out.println("Largest element: " +max);
-
     }
 }
