@@ -1,7 +1,7 @@
-import org.testng.annotations.Test;
+//import org.testng.annotations.Test;
 
 public class DeclareVariables {
-    @Test
+//    @Test
     public void testNames(){
         String actualName="Manoja";
         System.out.println(actualName);
