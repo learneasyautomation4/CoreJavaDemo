@@ -30,4 +30,28 @@ public class FrequencyOfEachCharJustAfterItsConsecutiveOccurance {
         printRLE("GeeeEEKKKss");
         printRLE("ccccOddEEE");
     }
+
+//attempted by smit in an interview at ofc
+//    import org.omg.CORBA.INTERNAL;
+//
+//import java.util.*;
+//
+//    public class    Sample {
+//
+//        public static void main(String[] args) {
+//            test("ccccaddeeffcccczzz");
+//
+//        }
+//
+//
+//        public static void test(String str){
+//            StringBuffer sb = new StringBuffer();
+//            char[]c = str.toCharArray();
+//            int count=0;
+//
+//            for (int i=0; i<str.length(); i++){
+//                for (int j=1; j<str.length();j++){
+//                    if (c[count]==c[j]){
+//                        break;
+//                    }
 }
